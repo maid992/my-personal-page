@@ -7,7 +7,7 @@
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
   },
-  "homepage": "http://maid992.github.io",
+  "homepage": "https://maid992.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

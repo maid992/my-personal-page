@@ -7,8 +7,13 @@ class App extends Component {
       <div className="App">
         <div className="navBar">
           <div className="textDiv">About</div>
-          <div className="textDiv">Workaraund</div>
+          <div className="textDiv">Work</div>
           <div className="textDiv">Contact</div>
+        </div>
+        <div className="name-title-container">
+          <div className="my-name">Maid Telalović</div>
+          <div className="block-line" />
+          <div className="my-title">web developer</div>
         </div>
         <div className="name-title-container">
           <div className="my-name">Maid Telalović</div>
