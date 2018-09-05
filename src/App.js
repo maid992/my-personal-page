@@ -13,12 +13,7 @@ class App extends Component {
         <div className="name-title-container">
           <div className="my-name">Maid Telalović</div>
           <div className="block-line" />
-          <div className="my-title">web developer</div>
-        </div>
-        <div className="name-title-container">
-          <div className="my-name">Maid Telalović</div>
-          <div className="block-line" />
-          <div className="my-title">web developer</div>
+          <div className="my-title">web</div>
         </div>
         <div className="text-body">
           <div className="headings" style={{ color: '#C9C927' }}>
